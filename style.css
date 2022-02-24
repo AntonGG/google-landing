@@ -1,0 +1,87 @@
+ body {
+     color: rgb(0, 0, 0);
+     font-style: Roboco;
+     background-color: #202124;
+ }
+
+ input {
+     padding: 10px 130px;
+     border-style: groove;
+     border-radius: 15%;
+     font-size: 18px;
+ }
+
+ form {
+     text-align: center;
+ }
+
+ .search {
+     text-align: center;
+     width: 75%
+ }
+
+ .submit {
+     width: 70px;
+     background-color: #60707a;
+     color: #ffffff;
+
+ }
+
+ H1 {
+     text-align: center;
+     font-size: 70px
+ }
+
+ hr {
+     position: fixed;
+     left: 0px;
+     bottom: 75px;
+     height: 1cm;
+     width: 100%;
+ }
+
+ .test2 {
+     text-align: left;
+     position: fixed;
+     left: 25px;
+     bottom: 67px;
+     height: 30px;
+     width: 100%;
+ }
+
+ footer, h1, asaid {
+     color: white
+ }
+
+ asaid {
+     text-align: right;
+     font-size: 15px
+ }
+
+ .leftstr {
+     float: left;
+     width: 1%;
+     font-size: 15px
+ }
+
+ .rightstr {
+     float: right;
+     text-align: right;
+     font-size: 15px
+ }
+
+ .line {
+     wight: 100px;
+     height: 240px;
+     front-size: 20px;
+     color:#60707a
+ }
+
+ footer {
+     position: fixed;
+     left: 0px;
+     bottom: 0px;
+     height: -2px;
+     width: 98%;
+     color: grey
+ }
